@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="2.6.1"/>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5"/>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.0"/>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3"/>
+    <PackageReference Include="Quartz" Version="3.13.1"/>
+    <PackageReference Include="Oracle.ManagedDataAccess" Version="23.6.1"/>
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="23.6.1"/>
+  </ItemGroup>
+</Project>

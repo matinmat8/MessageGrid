@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D08SR21o0QutjVRv4Q1ZzkK39FXwIFT0YxsmaWXSDiE=",
+  "Source": "BMO.API.MessageGrid",
+  "BasePath": "_content/BMO.API.MessageGrid",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BMO.API.MessageGrid.props" />
+</Project>

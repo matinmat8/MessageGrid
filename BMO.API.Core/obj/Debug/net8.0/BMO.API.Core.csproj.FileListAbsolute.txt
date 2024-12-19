@@ -1,0 +1,12 @@
+/home/muc/Desktop/MessageGrid/BMO.API.Core/bin/Debug/net8.0/BMO.API.Core.deps.json
+/home/muc/Desktop/MessageGrid/BMO.API.Core/bin/Debug/net8.0/BMO.API.Core.dll
+/home/muc/Desktop/MessageGrid/BMO.API.Core/bin/Debug/net8.0/BMO.API.Core.pdb
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/BMO.API.Core.csproj.AssemblyReference.cache
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/BMO.API.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/BMO.API.Core.AssemblyInfoInputs.cache
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/BMO.API.Core.AssemblyInfo.cs
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/BMO.API.Core.csproj.CoreCompileInputs.cache
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/BMO.API.Core.dll
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/refint/BMO.API.Core.dll
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/BMO.API.Core.pdb
+/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/Debug/net8.0/ref/BMO.API.Core.dll

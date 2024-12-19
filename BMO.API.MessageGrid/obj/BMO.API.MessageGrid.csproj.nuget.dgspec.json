@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/muc/Desktop/MessageGrid/BMO.API.MessageGrid/BMO.API.MessageGrid.csproj": {}
+  },
+  "projects": {
+    "/home/muc/Desktop/MessageGrid/BMO.API.Core/BMO.API.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/muc/Desktop/MessageGrid/BMO.API.Core/BMO.API.Core.csproj",
+        "projectName": "BMO.API.Core",
+        "projectPath": "/home/muc/Desktop/MessageGrid/BMO.API.Core/BMO.API.Core.csproj",
+        "packagesPath": "/home/muc/.nuget/packages/",
+        "outputPath": "/home/muc/Desktop/MessageGrid/BMO.API.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/muc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/home/muc/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.6.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[23.6.1, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[23.6.1, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/BMO.API.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/BMO.API.Infrastructure.csproj",
+        "projectName": "BMO.API.Infrastructure",
+        "projectPath": "/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/BMO.API.Infrastructure.csproj",
+        "packagesPath": "/home/muc/.nuget/packages/",
+        "outputPath": "/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/muc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/home/muc/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/muc/Desktop/MessageGrid/BMO.API.Core/BMO.API.Core.csproj": {
+                "projectPath": "/home/muc/Desktop/MessageGrid/BMO.API.Core/BMO.API.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/muc/Desktop/MessageGrid/BMO.API.MessageGrid/BMO.API.MessageGrid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/muc/Desktop/MessageGrid/BMO.API.MessageGrid/BMO.API.MessageGrid.csproj",
+        "projectName": "BMO.API.MessageGrid",
+        "projectPath": "/home/muc/Desktop/MessageGrid/BMO.API.MessageGrid/BMO.API.MessageGrid.csproj",
+        "packagesPath": "/home/muc/.nuget/packages/",
+        "outputPath": "/home/muc/Desktop/MessageGrid/BMO.API.MessageGrid/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/muc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/home/muc/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/muc/Desktop/MessageGrid/BMO.API.Core/BMO.API.Core.csproj": {
+                "projectPath": "/home/muc/Desktop/MessageGrid/BMO.API.Core/BMO.API.Core.csproj"
+              },
+              "/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/BMO.API.Infrastructure.csproj": {
+                "projectPath": "/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/BMO.API.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.6.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.23.60, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

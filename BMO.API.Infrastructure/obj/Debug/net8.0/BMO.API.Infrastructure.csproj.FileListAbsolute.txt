@@ -1,0 +1,15 @@
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/bin/Debug/net8.0/BMO.API.Infrastructure.deps.json
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/bin/Debug/net8.0/BMO.API.Infrastructure.dll
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/bin/Debug/net8.0/BMO.API.Infrastructure.pdb
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/BMO.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/BMO.API.Infrastructure.AssemblyInfoInputs.cache
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/BMO.API.Infrastructure.AssemblyInfo.cs
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/BMO.API.Infrastructure.csproj.CoreCompileInputs.cache
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/BMO.API.Infrastructure.dll
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/refint/BMO.API.Infrastructure.dll
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/BMO.API.Infrastructure.pdb
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/ref/BMO.API.Infrastructure.dll
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/BMO.API.Infrastructure.csproj.AssemblyReference.cache
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/bin/Debug/net8.0/BMO.API.Core.dll
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/bin/Debug/net8.0/BMO.API.Core.pdb
+/home/muc/Desktop/MessageGrid/BMO.API.Infrastructure/obj/Debug/net8.0/BMO.API.Infrastructure.csproj.CopyComplete
