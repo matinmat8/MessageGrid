@@ -8,4 +8,4 @@ This is what every project needs.
 
 - Additionally, you can add controllers to send notifications using APIs, as the services are independent and can be used anywhere you want!
 
-- Feel free to integrate this microservice into your project. I would be delighted if you use this microservice and enjoy its flexibility and comprehensive features.
+- Feel free to integrate this clean architecture microservice into your project. I would be delighted if you use this microservice and enjoy its flexibility and comprehensive features.
