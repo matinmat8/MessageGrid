@@ -59,6 +59,10 @@ public class DailyTradeSummaryNotifier : INotifier<DailyTradeSummaryNotifierRequ
                 { "TradeList", dailyTradeSummaryNotifierRequest.TradeList },
                 { "Inventory", dailyTradeSummaryNotifierRequest.Inventory }
             };
+            if (dailyTradeSummaryNotifierRequest.Recipient.Length < 11)
+            {
+                throw new CustomException(1);
+            }
             // Create a new scheduled message
             var scheduledMessage = new ScheduledMessage
             {
